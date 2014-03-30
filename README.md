@@ -1,3 +1,13 @@
+#Clojure Koans solutions
+
+My solutions to clojure koans. 
+Problems website : (http://clojurekoans.com/)
+Problems repository: (git://github.com/functional-koans/clojure-koans.git)
+
+
+Original README.MD is following.
+
+
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
