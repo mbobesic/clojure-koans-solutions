@@ -3,6 +3,11 @@ classes
 lib
 releases
 target
+resources
+script
+ideaboard.txt
+epl-v10.html
+.nrepl-port
 *.jar
 .DS_Store
 .lein-deps-sum
