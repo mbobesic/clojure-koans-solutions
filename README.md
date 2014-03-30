@@ -1,7 +1,9 @@
 #Clojure Koans solutions
 
 My solutions to clojure koans. 
+
 Problems website : (http://clojurekoans.com/)
+
 Problems repository: (git://github.com/functional-koans/clojure-koans.git)
 
 

@@ -13,4 +13,5 @@ epl-v10.html
 .lein-deps-sum
 .lein-plugins
 .lein-repl-history
+project.clj
 
